@@ -1,5 +1,5 @@
 # wiki word counter
-
+## 2024 - 2학기 제작
 -----
 
 - wiki 페이지에서
